@@ -1,6 +1,6 @@
 # Shoehorn Scoop Bucket
 
-Scoop bucket for the [Shoehorn CLI](https://github.com/shoehorn-dev/cli).
+Scoop bucket for the [Shoehorn CLI](https://github.com/shoehorn-dev/shoehorn-cli).
 
 ## Usage
 
