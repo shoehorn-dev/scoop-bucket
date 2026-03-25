@@ -1,5 +1,7 @@
 # Shoehorn Scoop Bucket
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/shoehorn-dev/scoop-bucket/badge)](https://scorecard.dev/viewer/?uri=github.com/shoehorn-dev/scoop-bucket)
+
 Scoop bucket for the [Shoehorn CLI](https://github.com/shoehorn-dev/shoehorn-cli).
 
 ## Usage
