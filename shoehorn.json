@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
-    "description": "CLI for the Shoehorn Internal Developer Portal",
+    "version": "0.4.0",
+    "description": "CLI for the Shoehorn Intelligent Developer Platform",
     "homepage": "https://github.com/shoehorn-dev/shoehorn-cli",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shoehorn-dev/shoehorn-cli/releases/download/v0.3.1/shoehorn_windows_amd64.exe.zip",
-            "hash": "49b07967846142b99bcbf24044ac47a3fbe8ab42bb4a18114110296289693d91"
+            "url": "https://github.com/shoehorn-dev/shoehorn-cli/releases/download/v0.4.0/shoehorn_windows_amd64.exe.zip",
+            "hash": "d29acdf0567161b4ebf79df1e7cf7ad27eba1f97b80069346b26eb2976ac9bcc"
         }
     },
     "bin": "shoehorn.exe",
